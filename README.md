@@ -191,8 +191,5 @@ estimated_time, status)
 
 
 
-**Last Updated**: November 2025  
-**Version**: 1.0.0  
-
 ---
 
